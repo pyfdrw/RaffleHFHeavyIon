@@ -1,0 +1,13 @@
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\bin\Debug\RaffleHFHeavyIon.exe.config
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\bin\Debug\RaffleHFHeavyIon.exe
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\bin\Debug\RaffleHFHeavyIon.pdb
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\MainWindow.g.cs
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\App.g.cs
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\RaffleHFHeavyIon_MarkupCompile.cache
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\RaffleHFHeavyIon_MarkupCompile.lref
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\MainWindow.baml
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\RaffleHFHeavyIon.g.resources
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\RaffleHFHeavyIon.Properties.Resources.resources
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\RaffleHFHeavyIon.csproj.GenerateResource.Cache
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\RaffleHFHeavyIon.exe
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Debug\RaffleHFHeavyIon.pdb

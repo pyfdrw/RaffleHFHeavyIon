@@ -1,0 +1,14 @@
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\bin\Release\RaffleHFHeavyIon.exe.config
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\bin\Release\RaffleHFHeavyIon.exe
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\bin\Release\RaffleHFHeavyIon.pdb
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\MainWindow.g.cs
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\App.g.cs
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\RaffleHFHeavyIon_MarkupCompile.cache
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\RaffleHFHeavyIon_MarkupCompile.lref
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\MainWindow.baml
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\RaffleHFHeavyIon.g.resources
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\RaffleHFHeavyIon.Properties.Resources.resources
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\RaffleHFHeavyIon.csproj.GenerateResource.Cache
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\RaffleHFHeavyIon.exe
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\RaffleHFHeavyIon.pdb
+E:\MyOriginalCodes\GITProjects\RaffleHFHeavyIon\RaffleHFHeavyIon\obj\Release\RaffleHFHeavyIon.csprojResolveAssemblyReference.cache
